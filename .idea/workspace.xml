@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="798d5d38-d6bd-4821-8bdf-9a2ce2ac43ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss5/demo/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss5/demo/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6/demo/demo_js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6/demo/demo_js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6/demo/demo_js2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6/demo/max_value.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -38,6 +41,20 @@
       <recent name="E:\WorkSpace\CodeGym\CodeGym\Teacher\Module 1\demo\C0923G1\ss4\demo" />
     </key>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.demo_js2.html">
+    <configuration name="demo_js2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C0923G1/ss6/demo/demo_js2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="max_value.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ss6/demo/max_value.js" working-dir="$PROJECT_DIR$/ss6/demo">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.demo_js2.html" />
+        <item itemvalue="Node.js.max_value.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -49,11 +66,96 @@
       <option name="presentableId" value="Default" />
       <updated>1696385566547</updated>
       <workItem from="1696385569767" duration="1344000" />
-      <workItem from="1696422840630" duration="3148000" />
+      <workItem from="1696422840630" duration="3962000" />
+      <workItem from="1696554289646" duration="5028000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1003" height="220" key="GridCell.Tab.0.bottom" timestamp="1696559943134">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state width="1003" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696559943134" />
+    <state width="1003" height="220" key="GridCell.Tab.0.center" timestamp="1696559943133">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state width="1003" height="220" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696559943133" />
+    <state width="1003" height="220" key="GridCell.Tab.0.left" timestamp="1696559943133">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state width="1003" height="220" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696559943133" />
+    <state width="1003" height="220" key="GridCell.Tab.0.right" timestamp="1696559943133">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state width="1003" height="220" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696559943133" />
+    <state width="1003" height="220" key="GridCell.Tab.1.bottom" timestamp="1696559943134">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state width="1003" height="220" key="GridCell.Tab.1.bottom/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696559943134" />
+    <state width="1003" height="220" key="GridCell.Tab.1.center" timestamp="1696559943134">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state width="1003" height="220" key="GridCell.Tab.1.center/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696559943134" />
+    <state width="1003" height="220" key="GridCell.Tab.1.left" timestamp="1696559943134">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state width="1003" height="220" key="GridCell.Tab.1.left/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696559943134" />
+    <state width="1003" height="220" key="GridCell.Tab.1.right" timestamp="1696559943134">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state width="1003" height="220" key="GridCell.Tab.1.right/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696559943134" />
+    <state width="1003" height="220" key="GridCell.Tab.2.bottom" timestamp="1696559943135">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state width="1003" height="220" key="GridCell.Tab.2.bottom/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696559943135" />
+    <state width="1003" height="220" key="GridCell.Tab.2.center" timestamp="1696559943135">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state width="1003" height="220" key="GridCell.Tab.2.center/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696559943135" />
+    <state width="1003" height="220" key="GridCell.Tab.2.left" timestamp="1696559943135">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state width="1003" height="220" key="GridCell.Tab.2.left/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696559943135" />
+    <state width="1003" height="220" key="GridCell.Tab.2.right" timestamp="1696559943135">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state width="1003" height="220" key="GridCell.Tab.2.right/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696559943135" />
+    <state x="2088" y="160" key="run.anything.popup" timestamp="1696558052160">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state x="2088" y="160" key="run.anything.popup/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696558052160" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ss6/demo/max_value.js</url>
+          <line>20</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ss6/demo/max_value.js</url>
+          <line>24</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ss6/demo/max_value.js</url>
+          <line>25</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ss6/demo/max_value.js</url>
+          <line>26</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

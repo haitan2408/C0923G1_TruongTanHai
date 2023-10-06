@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="demo_js.js"></script>
+</head>
+<body>
+<h1 id="like">Thích</h1>
+<!--style.color được dùng để thay đổi màu sắc của 1 element trong DOM-->
+<button onclick="document.getElementById('like').style.color='red'">
+    Click me!!
+</button>
+
+ctr + /
+<!--textContent được dùng đề lấy và thay đổi nội dung của các thẻ hiển thi văn bản trong DOM-->
+<button onclick="comment()">
+    Comment
+</button>
+</body>
+<script>
+    // function là cú pháp để khai báo 1 hàm thực hiện
+    // 1 công việc nào đó khi có 1 sự kiện xảy ra
+    function comment() {
+        document.getElementById('like').textContent='Rất thích';
+        document.getElementById('like').style.color="blue";
+    }
+</script>
+</html>

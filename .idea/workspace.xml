@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="798d5d38-d6bd-4821-8bdf-9a2ce2ac43ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss6/demo/demo_js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss6/demo/demo_js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss6/demo/demo_js2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss6/demo/max_value.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7/demo_variable.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +39,10 @@
       <recent name="E:\WorkSpace\CodeGym\CodeGym\Teacher\Module 1\demo\C0923G1\ss4\demo" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.demo_js2.html">
+  <component name="RunManager" selected="JavaScript Debug.demo.html">
+    <configuration name="demo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C0923G1/ss7/demo.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="demo_js2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C0923G1/ss6/demo/demo_js2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -50,6 +51,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.demo.html" />
         <item itemvalue="JavaScript Debug.demo_js2.html" />
         <item itemvalue="Node.js.max_value.js" />
       </list>
@@ -67,7 +69,8 @@
       <updated>1696385566547</updated>
       <workItem from="1696385569767" duration="1344000" />
       <workItem from="1696422840630" duration="3962000" />
-      <workItem from="1696554289646" duration="5028000" />
+      <workItem from="1696554289646" duration="5700000" />
+      <workItem from="1696814095213" duration="2679000" />
     </task>
     <servers />
   </component>
@@ -75,6 +78,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2212" y="119" key="FileChooserDialogImpl" timestamp="1696818336222">
+      <screen x="1920" y="0" width="1024" height="720" />
+    </state>
+    <state x="2212" y="119" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696818336222" />
     <state width="1003" height="220" key="GridCell.Tab.0.bottom" timestamp="1696559943134">
       <screen x="1920" y="0" width="1024" height="720" />
     </state>
@@ -134,25 +141,21 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/ss6/demo/max_value.js</url>
           <line>20</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/ss6/demo/max_value.js</url>
           <line>24</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/ss6/demo/max_value.js</url>
           <line>25</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/ss6/demo/max_value.js</url>
           <line>26</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>

@@ -24,22 +24,22 @@
 // //    Chuyển về lại trang xác nhận tài khoản
 // //    Quên mật khẩu
 // }
-// let count = 0;
-// let usernameOfGG = prompt("Nhập username");
-// if(usernameOfGG == "username") {
-//     let passwordOfGG = prompt("Nhập pass");
-//     if(passwordOfGG ="pass") {
-//         alert("Đăng nhập thành công")
-//     } else {
-//         alert("Sai password")
-//     }
-// } else {
-//     alert("Sai tài khoản");
-//     count++;
-//     if(count == 3) {
-//
-//     }
-// }
+let count = 0;
+let usernameOfGG = prompt("Nhập username");
+if(usernameOfGG === "username") {
+    let passwordOfGG = prompt("Nhập pass");
+    if(passwordOfGG ==="pass") {
+        alert("Đăng nhập thành công")
+    } else {
+        alert("Sai password")
+    }
+} else {
+    alert("Sai tài khoản");
+    count++;
+    if(count == 3) {
+
+    }
+}
 
 // Demo hiển thị số ngày của tháng trong năm
 

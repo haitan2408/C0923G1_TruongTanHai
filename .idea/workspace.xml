@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="798d5d38-d6bd-4821-8bdf-9a2ce2ac43ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss10/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss10/demo_continue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss10/demo_loop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss12/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss12/demo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/demo_if.js" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/demo_if.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="C0923G1" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,17 +42,17 @@
       <recent name="E:\WorkSpace\CodeGym\CodeGym\Teacher\Module 1\demo\C0923G1\ss4\demo" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.demo.html (2)">
+  <component name="RunManager" selected="JavaScript Debug.demo.html (3)">
     <configuration name="demo.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C0923G1/ss8/demo.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="demo.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C0923G1/ss10/demo.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="demo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C0923G1/ss7/demo.html" useBuiltInWebServerPort="true">
+    <configuration name="demo.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C0923G1/ss12/demo.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="demo_js2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C0923G1/ss6/demo/demo_js2.html" useBuiltInWebServerPort="true">
+    <configuration name="demo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C0923G1/ss7/demo.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="demo_if.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ss8/demo_if.js" working-dir="$PROJECT_DIR$/ss8">
@@ -59,11 +60,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.demo.html (3)" />
         <item itemvalue="JavaScript Debug.demo.html (2)" />
         <item itemvalue="JavaScript Debug.demo.html (1)" />
         <item itemvalue="Node.js.demo_if.js" />
         <item itemvalue="JavaScript Debug.demo.html" />
-        <item itemvalue="JavaScript Debug.demo_js2.html" />
       </list>
     </recent_temporary>
   </component>
@@ -82,7 +83,8 @@
       <workItem from="1696554289646" duration="5700000" />
       <workItem from="1696814095213" duration="2720000" />
       <workItem from="1696851844813" duration="4964000" />
-      <workItem from="1697032045499" duration="4670000" />
+      <workItem from="1697032045499" duration="5512000" />
+      <workItem from="1697505168607" duration="3704000" />
     </task>
     <servers />
   </component>
@@ -90,10 +92,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2212" y="119" key="FileChooserDialogImpl" timestamp="1696818336222">
-      <screen x="1920" y="0" width="1024" height="720" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1697510681835">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="2212" y="119" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1024.720@1920.0.1024.720" timestamp="1696818336222" />
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1697510681835" />
     <state width="1899" height="418" key="GridCell.Tab.0.bottom" timestamp="1696906807405">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>

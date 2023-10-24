@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="798d5d38-d6bd-4821-8bdf-9a2ce2ac43ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ss16/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss16/demo_oop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss17/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss17/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss17/demo2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
       <recent name="E:\WorkSpace\CodeGym\CodeGym\Teacher\Module 1\demo\C0923G1\ss4\demo" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.demo.html (4)">
+  <component name="RunManager" selected="JavaScript Debug.demo.html">
     <configuration name="demo.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C0923G1/ss8/demo.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -55,16 +56,16 @@
     <configuration name="demo.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C0923G1/ss14/demo.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="demo_if.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ss8/demo_if.js" working-dir="$PROJECT_DIR$/ss8">
+    <configuration name="demo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/C0923G1/ss17/demo.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.demo.html" />
         <item itemvalue="JavaScript Debug.demo.html (4)" />
         <item itemvalue="JavaScript Debug.demo.html (3)" />
         <item itemvalue="JavaScript Debug.demo.html (2)" />
         <item itemvalue="JavaScript Debug.demo.html (1)" />
-        <item itemvalue="Node.js.demo_if.js" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +89,8 @@
       <workItem from="1697510700108" duration="625000" />
       <workItem from="1697677578200" duration="3910000" />
       <workItem from="1697776693201" duration="86000" />
-      <workItem from="1698023432362" duration="2410000" />
+      <workItem from="1698023432362" duration="3121000" />
+      <workItem from="1698069290847" duration="4037000" />
     </task>
     <servers />
   </component>
